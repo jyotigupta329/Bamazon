@@ -1,0 +1,24 @@
+{
+  "name": "BamazonC2",
+  "version": "1.0.0",
+  "description": "Node.js app",
+  "main": "bamazonCustomerC2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotigupta329/Bamazon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jyotigupta329/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jyotigupta329/Bamazon#readme"
+}
